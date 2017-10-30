@@ -1,0 +1,11 @@
+<svg id="图层_1"
+     data-name="图层 1"
+     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60">
+    <title>dujunhui2</title>
+    <path d="M35,26l-3-6-5-3H8V51H27l5-3a15,15,0,0,0,4-6,23,23,0,0,0,1-7A25,25,0,0,0,35,26Z" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/>
+    <path d="M78,12V32a52,52,0,0,1-1,10,11,11,0,0,1-2,5l-5,3H55l-5-3-2-4a47,47,0,0,1-1-10V12" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/>
+
+    <path d="M157,12V32a52,52,0,0,1-1,10,11,11,0,0,1-2,5l-5,3H134l-5-3-2-4a47,47,0,0,1-1-10V12" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/>
+    <path d="M279,12V32a52,52,0,0,1-1,10,11,11,0,0,1-2,5l-5,3H255l-5-3-2-4a47,47,0,0,1-1-10V12" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/>
+    <path d="M114,12V36a25,25,0,0,1-1,7,10,10,0,0,1-4,5l-8,2q-6,0-9-3t-3-9" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/>
+    <line x1="207" y1="12" x2="207" y2="56" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/><line x1="235" y1="12" x2="235" y2="56" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/><line x1="207" y1="34" x2="235" y2="34" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/><polyline points="169 56 169 17 174 17 191 51 195 51 195 12" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/><line x1="292" y1="12" x2="292" y2="56" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px"/></svg>
